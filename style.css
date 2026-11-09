@@ -1,6 +1,9 @@
 html, body {
   margin: 0;
   padding: 0;
+  /* Stesso nero di fondo dello sketch, così non si vede un flash bianco al caricamento */
+  background: #121212;
+  font-family: "Inter", sans-serif;
 }
 
 canvas {
